@@ -55,4 +55,4 @@ class DifferentRotations(Scene):
             left_square.animate.rotate(PI), Rotate(right_square, angle=PI), run_time=2
         )
         self.wait()
-        
+
